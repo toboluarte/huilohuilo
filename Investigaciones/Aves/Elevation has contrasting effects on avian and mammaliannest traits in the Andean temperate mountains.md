@@ -17,7 +17,7 @@ Luego con propósitos de abarcar las preguntas de investigación, los autores in
 
 ## Vacio de conocimiento ¿Porque lo hicieron? ¿Cuál es la relevancia del estudio?
 
-* Relación entre las caracteristicas existentes la gradiente de elevación y las caracteristicas de los nidos. Relación que se sigue discutiendo en función de los hallazgos empiricos
+* Relación entre las caracteristicas existentes la gradiente de elevación y las caracteristicas de los nidos. Relación que se sigue discutiendo en función de los hallazgos empíricos
 * Cambios conductuales en la construcción de nidos en función de la gradiente de elevación.
 * Rol de la materialidad de los nidos en los mamiferos que construyen nidos. 
 * Ausencia de estudios en el  rol de la composición y estructura de los nidos en el hemisferio sur.
