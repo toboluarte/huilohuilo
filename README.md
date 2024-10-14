@@ -1,3 +1,1 @@
-# huilo huilo
-
-En este voluntariado se retomaran las investigaciones para generar mensajes de divulgación cientifica y se apoyara la generación de productos en base a las investigaciones.
+Voluntariado Recopilación de investigaciones realizadas en la reserva Huilo Huilo
