@@ -1,3 +1,4 @@
+
 # Araucaria Araucana
 **Nombre Cientifico:** _Araucaria araucana_ (Molina) K. Koch
 **Nombre Común:** Araucaria, Pehuén, Pewén, Piñonero, Pino araucaria
@@ -8,9 +9,11 @@
 
 **Usos:** Tiene gran importancia histórica y etnobotánica, las semillas constituyen una importante fuente de alimentación. Posee gran valor ornamental, por su simetría y belleza de sus formas.
 
-**Endemica o Nativa**:  Especie endémica de los bosques templados de América del Sur
+**Endemica o Nativa**:  Especie endémica de los bosques templados de América del Sur.
+
 **Altura**: Hasta 50 m de altura.
-**CORTEZA:** rugosa y gruesa de color amarillo ocre, con vetas de color castaño, agrietada y en forma de placas hexagonales
+
+**CORTEZA:** rugosa y gruesa de color amarillo ocre, con vetas de color castaño, agrietada y en forma de placas hexagonales.
 
 **HOJAS:** Se disponen de manera helicoidal o espiralada. color es verde oscuro, lustroso, y presentan estomas en ambas caras
 
@@ -18,9 +21,11 @@
 
 **CUPULA:** de aspecto piramidal similar a un paraguas.
 
-**Bosque Habita**: Coigue 
+**Bosque Habita**: Coigue.
+
 
 # Alerce 
+
 **Nombre Cientifico:** _Fitzroya cupressoides
 
 **Nombre Común:** Alerce, Lahuén
@@ -35,7 +40,7 @@
 
 **Altura**: Hasta 45 m de altura.
 
-**CORTEZA:** La corteza del Alerce es castaño rojiza, medianamente gruesa, de consistencia fibrosa y presenta surcos longitudinales profundos
+**CORTEZA:** La corteza del Alerce es castaño rojiza, medianamente gruesa, de consistencia fibrosa y presenta surcos longitudinales profundos.
 
 **HOJAS:** Son perennes, escuamiformes y delgadas. De forma aovado-oblonga y cóncava, presentan el ápice encorvado y dos rayitas o bandas blanquecinas.
 
@@ -44,6 +49,9 @@
 **CUPULA:** de aspecto piramidal similar a un paraguas.
 
 **Bosque Habita**: Bosque valdiviano
+
+
+
 
 
 # Ciprés de las Guaitecas
@@ -64,7 +72,8 @@
 
 **HOJAS:** perenne con hojas opuestas, escuamiformes e imbricadas
 
-**FLORES:** Conos masculinos son pequeños y alargados, se producen en la punta de las ramillas, los conos femeninos son mucho más pequeños y tienen una apariencia similar a las pequeñas frutas
+**FLORES:** Conos masculinos son pequeños y alargados, se producen en la punta de las ramillas, los conos femeninos son mucho más pequeños y tienen una apariencia similar a pequeñas uvas.
+
 **CUPULA:** Es un árbol de copa estrecha y forma asimétrica pirmaidal.
 
-**Bosque Habita**: Bosque valdiviano
+**Bosque Habita**: Bosque valdiviano.

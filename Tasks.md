@@ -2,6 +2,7 @@
 
 kanban-plugin: board
 
+banner: "![[espacio.png]]"
 ---
 
 ## To do
@@ -20,12 +21,12 @@ kanban-plugin: board
 - [x] Contacto Honorato (aves)
 - [x] Contacto Micofilos
 - [ ] Idea storm FUNGI VALUE
-- [x] Contribución especies arboleas restantes
 - [ ] Profundizar en las especies de la pantonera [[Pantonera]]
 
 
 ## TERMINADO
 
+- [x] Contribución especies arboleas restantes
 - [x] Contacto universidad UFRO
 
 
