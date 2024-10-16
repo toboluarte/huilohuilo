@@ -21,7 +21,6 @@ banner: "![[espacio.png]]"
 - [x] RECOPILACIÓN AVIARIO
 - [x] Contacto Honorato (aves)
 - [x] Idea storm FUNGI VALUE
-- [x] Contacto con Maria José Dibán
 - [x] Profundizar en las especies de la pantonera [[Pantonera]]
 
 
@@ -30,6 +29,7 @@ banner: "![[espacio.png]]"
 - [x] Contribución especies arboleas restantes
 - [x] Contacto universidad UFRO
 - [x] Contacto Micofilos
+- [x] Contacto con Maria José Dibán
 
 
 

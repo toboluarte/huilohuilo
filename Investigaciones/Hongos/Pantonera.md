@@ -39,13 +39,18 @@ No hay concordancia con Atlas micológico
 Basidoma cupuliforme de 30-60 mm de diámetro, de colo anaranjado en su cara externa y anaranjado blanquecino en su cara interna, liso, víscido. Esporada rosado salmón.
 Hábitat: parásito de nothofagus y otros árboles
 Distribución: Chile austral, Patagonia, Argentina
-No cmestible
+No comestible
+
 **Mycena Alcalina**
 No hay concordancia con Atlas micológico
+
 **No_named-- Cyttaria espinosae possible**
-Estroma de 40-60x 30-60 mm, blanco de superifcie pegajosa, o globoso. Una fina membrana blanca cubre al estroma, esta membrana se rompe cuando crece y deja ver los apotecios. Apotecio de intenso y hermoso color anaranjado, con una profundad de 6-12 mm y con una boca de las mismas dimensiones que puede ser pentagonal o hexagonal. el Himenio incoloro tapiza toda la pared inter del apotecio.
+
+Estroma de 40-60x 30-60 mm, blanco de superifcie pegajosa, o globoso. Una fina membrana blanca cubre al estroma, esta membrana se rompe cuando crece y deja ver los apotecios. Apotecio de intenso y hermoso color anaranjado, con una profundad de 6-12 mm y con una boca de las mismas dimensiones que puede ser pentagonal o hexagonal. el Himenio incoloro tapiza toda la pared interna del apotecio.
+
 Hábitat: Se desarrolla sobre Nothofagus obliqua, N. glauca y N. procera especialmente durante la primavera.
-Distribución: Chole central y austral, Argentina.
+
+Distribución: Chile central y austral, Argentina.
 Comestible, conocida por los nombres vulgares de quideñe, dihueñe
 **Armillaria sp**
 Píleo de 50-66 mm de diámetro, crema amarillento a pardusco o grisáceo, con el centro gris ocráceo y con pequeñas escamas, higrófano, convexo, ligeramente umbonado, surcado en la tercer parte del radio. Lamelas crema o blanquizcas, juntas, más bien anchas, sinuado subdecurrentes. Estipite de 55-85 x 9-12 mm, concoloro con el píleo.
@@ -53,8 +58,8 @@ Habitat: Se desarrolla en madera podrida, árboles vivos, raíces de árboles.
 Distribución: Chile central, Argentina central, Brasil austral.
 No comestible
 **Ganoderma sp.**
-Basidioma de 220-320 mm de anchura, pardo oscuro con algunas zonas grises, semiorbicular aplanado convexo, aveces ondeado, dimidiado, sésil. Superficie cubierta por una costra lacada, brillante, gruesa, muy dura y que con posteridad se resquebraja. Margen glabro, estrecho, estéril. Tubos de 25-30 mm de profunidad, fuscos desprendibles a veces. Poros de 200 micrometros de ancho, blancos al principo, después pardos. Contextura pardo oscura, recia, fibrosa. 
-Habitat: Parasito de diferente árboles.
+Basidioma de 220-320 mm de anchura, pardo oscuro con algunas zonas grises, semiorbicular aplanado convexo, aveces ondeado, dimidiado, sésil. Superficie cubierta por una costra lacada, brillante, gruesa, muy dura y que con posteridad se resquebraja. Margen glabro, estrecho, estéril. Tubos de 25-30 mm de profundidad, fuscos desprendibles a veces. Poros de 200 micrometros de ancho, blancos al principo, después pardos. Contextura pardo oscura, recia, fibrosa. 
+Habitat: Parásito de diferente árboles.
 Distribución: Amplia, Chile central y austral. 
 No comestible
 

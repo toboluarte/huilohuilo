@@ -21,6 +21,6 @@ Combinando teledetección y mediciones directas, los autores logran generar un m
 # IDEAS
 + Los factores ligados al cambio climático son más relevantes que las dinámicas propias del glaciar en cuanto a la perdida de hielo.
 + Utilizar herramientas de modelamiento de glaciares para predecir la formación de lagos, para enfocar los recursos en la prevención.
-+ <mark style="background: #FFF3A3A6;">Estaciones de monitoreo continuo para los grupos científicos interesados en utilizar datos para poder modelar las dinámicas del glaciar y los cambios en el contexto de cambio climático</mark>
++ <mark style="background: #FFF3A3A6;">Estaciones de monitoreo continuo para los grupos científicos interesados en utilizar datos para poder modelar las dinámicas del glaciar y los cambios en el contexto de cambio climático</mark> [[Ideas_Glaciar]]
 
 

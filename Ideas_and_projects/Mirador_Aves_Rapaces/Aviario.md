@@ -1,22 +1,22 @@
 ## Cóndor Andino (Vultur Gryphus)
-* Caracteristicas distintivas:
+* Características distintivas:
 * Dieta:
 * Estado de conservación:
 ## Carpintero Negro (campephilus magellanicus)
-* Caracteristicas distintivas:
+* Características distintivas:
 * Dieta:
 * Estado de conservación:
 
 ## Chucao (Scelorchilus Rubecula)
-* Caracteristicas distintivas:
+* Características distintivas:
 * Dieta:
 * Estado de conservación:
 ## Huala o macá grande (Podiceps major)
-* Caracteristicas distintivas:
+* Características distintivas:
 * Dieta:
 * Estado de conservación:
 ## Bandurria (Theristicus melanopis)
-* Caracteristicas distintivas:
+* Características distintivas:
 * Dieta:
 * Estado de conservación:
 ## Cisne De Cuello Negro (Cygnus Melancoryphus)

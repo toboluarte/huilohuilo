@@ -1,5 +1,6 @@
 
 # Araucaria Araucana
+
 **Nombre Cientifico:** _Araucaria araucana_ (Molina) K. Koch
 **Nombre Común:** Araucaria, Pehuén, Pewén, Piñonero, Pino araucaria
 
