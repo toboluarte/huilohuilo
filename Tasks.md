@@ -8,16 +8,19 @@ banner: "![[espacio.png]]"
 ## To do
 
 - [ ] Presentacion avance
-- [ ] Contacto Marius (Glaciares)
 - [ ] En base a los artículos leidos de Aves, propuesta de ideas
 - [ ] En base a los artículos leidos de glaciares, propuesta de ideas
 - [ ] En base a los artículos leidos de magma, propuesta de ideas
 - [ ] Sostener los principios de la fundación, en teorías fundamentadas desde la perspectiva académica.
+- [ ] Generar infografías en base a los artículos de glaciar
+- [ ] Subir los archivos a Drive
+- [ ] Profundización en investigación de los volcanes en Chile
 
 
 ## EN PROCESO
 
 - [x] Generar Documento basado en las oportunidades existentes en el reino fungi
+- [x] Contacto Marius (Glaciares)
 - [x] RECOPILACIÓN AVIARIO
 - [x] Contacto Honorato (aves)
 - [x] Idea storm FUNGI VALUE

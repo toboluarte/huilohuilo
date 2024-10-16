@@ -6,4 +6,15 @@ Existen 56.000 especies fúngicas conocidas, de los cuales se pueden distinguir 
 
 En los hongos existe una parte somática **pernne**, llamad micelio, oculta en el suelo, la madera o cualquier otro sustrato y una parte **caduca**, efímera: La fructificación. Por tanto, quien recoleta setas, está recogiendo cuerpos fructíferos. **La época de captura favorable es desde mayo hasta principios de septiembre en la zona central** cuya presencia esta proporcionalmente relacionada con la pluviosidad, además, si se ha conservado la vegetación nativa es particularmente favorable  para la observación de setas.
 
+GBIF
+INDEX FUNGORUM
+MYCOBANK
+FUNGAL DIVERSITY
+FUNGIMAP
+INATURALIST
+NORTH AMERICAN MYCOLOGICAL ASSOCIATION
+OPEN TREE OF LIFE
+TROPICOS: BASE DE DATOS DE MISSOURI
+FUNAGAL GENOME DATABASE
+
 
