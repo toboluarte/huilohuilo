@@ -1,0 +1,1 @@
+Más de la mitad de las especies de aves del mundo, se conocen comúnmente como pájaros cantores

@@ -7,7 +7,6 @@ banner: "![[espacio.png]]"
 
 ## To do
 
-- [ ] Presentacion avance
 - [ ] En base a los artículos leidos de Aves, propuesta de ideas
 - [ ] En base a los artículos leidos de glaciares, propuesta de ideas
 - [ ] En base a los artículos leidos de magma, propuesta de ideas
@@ -15,11 +14,13 @@ banner: "![[espacio.png]]"
 - [ ] Generar infografías en base a los artículos de glaciar
 - [ ] Subir los archivos a Drive
 - [ ] Profundización en investigación de los volcanes en Chile
+- [ ] Reunion Museo, Historia de los volcanes
 
 
 ## EN PROCESO
 
 - [x] Generar Documento basado en las oportunidades existentes en el reino fungi
+- [x] Presentacion avance
 - [x] Contacto Marius (Glaciares)
 - [x] RECOPILACIÓN AVIARIO
 - [x] Contacto Honorato (aves)
