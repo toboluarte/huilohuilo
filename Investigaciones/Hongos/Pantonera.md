@@ -75,12 +75,24 @@ No comestible
 	- Catalogado como comestible mediocre
 
 - **Armillaria aff. novae-zelandiae**
-- **Armillaria novae-zelandiae**
+	- ![[Pasted image 20241016133541.png]]
+	- Patogeno, formador de callampas
+
 - **Calocera cornea**
+	- ![[Pasted image 20241016133813.png]]
+	
+	- Caróforo de forma erecta, no supera los 2cm de altura
+	- Descomponedor de madera
+	- Consistencia gelatinosa y color amarillo.
+	-
 - **Calyptella gibbosa**
+	- ![[Pasted image 20241016133859.png]]
+	- Crece gregariamente en tallos de hierba y otras herbáceas
+	- 
+
 - **Clitocybe suaveolens**
 - **Coprinellus disseminatus**
-- **Cortinarius aff. Austroduracinus**
+- **Cortinarius aff. austroduracinus**
 - **Cortinarius indotatus**
 - **Cortinarius magellanicus**
 - **Cortinarius sp. 1**

@@ -15,11 +15,18 @@ banner: "![[espacio.png]]"
 - [ ] Subir los archivos a Drive
 - [ ] Profundización en investigación de los volcanes en Chile
 - [ ] Reunion Museo, Historia de los volcanes
+- [ ] Generar Base de datos de los hongos de la reserva
+- [ ] Contrastar pantonera con la base dato  de maria jose diban
+- [ ] Unificar base de datos
+- [ ] Trabajar idea de recalcar las las caracteristicas de la naturaleza del sur de Chile, distanciarse de los paises caribeños.
+- [ ] Leer investigación de Harriet Rawson
+- [ ] Philipp Ruprecht estudios de volcan, profundizar http://www.volcanology.info/
+- [ ] Revisar estudios briofitas
+- [ ] Ficha Resumen por cada una de las investigaciones
 
 
 ## EN PROCESO
 
-- [x] Generar Documento basado en las oportunidades existentes en el reino fungi
 - [x] Presentacion avance
 - [x] Contacto Marius (Glaciares)
 - [x] RECOPILACIÓN AVIARIO
@@ -31,6 +38,7 @@ banner: "![[espacio.png]]"
 ## TERMINADO
 
 - [x] Contribución especies arboleas restantes
+- [x] Generar Documento basado en las oportunidades existentes en el reino fungi
 - [x] Contacto universidad UFRO
 - [x] Contacto Micofilos
 - [x] Contacto con Maria José Dibán
