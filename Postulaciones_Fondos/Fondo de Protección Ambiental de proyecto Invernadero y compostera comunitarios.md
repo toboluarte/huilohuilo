@@ -548,15 +548,15 @@ En donde se pide “Descripción”, escribir lo siguiente: “Se adjuntan los a
 
 ## Documentos necesarios para la admisibilidad
 Al final de las secciones debería haber alguna que diga documentos :
-1.2.3.4.5.Certificado de Vigencia de la Personalidad Jurídica de la Organización, emitida exclusivamente
-por el Servicio de Registro Civil e Identificación, y con una anterioridad máxima de 60 días a la
-fecha de su presentación
-Copia, digitalización o fotografía del Rol Único Tributario (RUT) de la organización que postula,
-RUT Digital emitido por el Servicio de Impuestos Internos (SII), o RUT provisorio
-Las organizaciones postulantes deben tener domicilio legal o sucursal registrada en la región en la
-cual se ejecutará la iniciativa (de acuerdo con la información ingresada en el formulario de
-postulación)
-Coordinador de la Iniciativa debe tener residencia en la región en la cual se ejecutará la iniciativa
-(de acuerdo a la información ingresada en el formulario de postulación)
-Alianza de trabajo y cooperación con una organización territorial o funcional presente en el área
-de influencia directa del lugar donde desarrolle la iniciativa (Anexo 17)
+
+	Certificado de Vigencia de la Personalidad Jurídica de la Organización, emitida exclusivamente
+	
+	por el Servicio de Registro Civil e Identificación, y con una anterioridad máxima de 60 días a lafecha de su presentación
+	
+	Copia, digitalización o fotografía del Rol Único Tributario (RUT) de la organización que postula, RUT Digital emitido por el Servicio de Impuestos Internos (SII), o RUT provisorio
+	
+	Las organizaciones postulantes deben tener domicilio legal o sucursal registrada en la región en lacual se ejecutará la iniciativa (de acuerdo con la información ingresada en el formulario depostulación)
+	
+	Coordinador de la Iniciativa debe tener residencia en la región en la cual se ejecutará la iniciativa(de acuerdo a la información ingresada en el formulario de postulación)
+	
+	Alianza de trabajo y cooperación con una organización territorial o funcional presente en el áreade influencia directa del lugar donde desarrolle la iniciativa (Anexo 17)
