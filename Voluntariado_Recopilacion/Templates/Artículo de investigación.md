@@ -1,6 +1,13 @@
-# Nombre del proyecto
+---
+Fecha: 
+Locacion: 
+Institución: 
+Autor: 
+Estado del trabajo:
+---
 # Corporación o institución a cargo
 # Fechas
+
 ## Inicio de la investigación
 ## Fin de la investigación
 ## Fecha de publicación
