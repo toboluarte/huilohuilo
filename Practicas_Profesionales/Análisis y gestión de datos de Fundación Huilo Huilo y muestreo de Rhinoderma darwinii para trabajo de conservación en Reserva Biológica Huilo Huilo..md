@@ -8,11 +8,9 @@ Estado del trabajo: Terminado
 #Practica #Rhinoderma_darwinii #Conservacion
 # Observaciones del trabajo
 No presenta resultados asociados a la conservación de la ranita de darwin, es un reporte realizado en un contexto universitario
-# El estudio en palabras simples
-El trabajo busca generar documentos que contribuyan a la formación de guarda parques, revisar los protocolos de ingreso a la reserva de investigadores externos y toma de muestras biológicas, y finalmente un apoyo técnico al proyecto de conservación e investigación de la Rhinoderma_darwiini.
 # Resumen
-En el contexto de cambio climático, algunas especies tienen dificultad para adaptarse. Por lo anterior, es necesario tomar medidas para proteger estas especies y recursos del ecosistema.
-La importancia del estudio recae principalmente porque la ranita de darwin está en peligro de extinción y se encuentra particularmente amenazada por un hongo quitrido invasor.
+El trabajo busca generar documentos que contribuyan a la formación de guarda parques, revisar los protocolos de ingreso a la reserva de investigadores externos y toma de muestras biológicas, y finalmente un apoyo técnico al proyecto de conservación e investigación de la Rhinoderma darwiini y su riesgo asociado a la invasión de un quitrido, siendo esta especie un biosensor, dado a la falta de adaptabilidad por sus conductas reproductivas.
+
 # Introducción
 Diariamente se extinguen cerca de 150 especies una cifra alarmante y un problema que debe ser abordado desde múltiples aristas. Una de las alternativas en la conservación, esta tiene como objetivo posibilitar la continuidad de los procesos evolutivos y ecológicos, particularmente garantizar condiciones en donde no exista incidencia del daño antrópico.
 Las áreas protegidas son una de las herramientas más importantes para resguardar la biodiversidad. El bosque húmedo templado representa un 0.9% de los bosques del mundo haciendo este un ecosistema único y que alberga un gran número de especies con alto grado de endemismo, adaptadas a vivir en estas condiciones. En esta región existen cerca de 930.00 hectáreas de bosque nativo y mixto y sólo se ha protegido un 8.96%.

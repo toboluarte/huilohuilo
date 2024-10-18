@@ -20,6 +20,8 @@ banner: "![[espacio.png]]"
 - [ ] Revisar estudios briofitas
 - [ ] Ficha Resumen por cada una de las investigaciones
 - [ ] Revisar documentación de conservacion
+- [ ] Generar KPI's de conservación
+- [ ] Busqueda de KPI's de conservación
 
 
 ## EN PROCESO
