@@ -1,11 +1,11 @@
 ## Cóndor Andino (Vultur Gryphus)
 * Características distintivas:
 * Dieta:
-* Estado de conservación:
+* Estado de conservación: Casi amenazada
 ## Carpintero Negro (campephilus magellanicus)
 * Características distintivas:
 * Dieta:
-* Estado de conservación:
+* Estado de conservación: Preocupación menor
 
 ## Chucao (Scelorchilus Rubecula)
 * Características distintivas:

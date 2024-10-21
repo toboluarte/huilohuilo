@@ -6,15 +6,10 @@ Autor: Honorato, Altamirano
 Estado del trabajo: Terminado
 ---
 #Investigación #Rayadito_monitodelmonte #Conservacion 
-
-
-
-
 # Términos útiles
 **Nest Clutch**: Es el total de huevos que un ave deja por intento de nido, en general es un término para referirse  al esfuerzo parental.
 ![[Pasted image 20241008105900.png]]
 **Briofitas**: Se refiere a una categorización de plantas, llamadas plantas terrestres no vasculares, viene del latín Bryon que se podría traducir como **musgo**. Se plantea que son las primeras plantas en colonizar espacios terrestres.
-![[Pasted image 20241008105305.png]]
 # Story telling in simple words :
 Lo primero que hicieron fue segmentar el bosque en función de la altura, para esto trazaron una linea en los 700 m de altura sobre el nivel del mar. Luego seleccionaron 2 especies de vertebrados. El Rayadito y el Monito del monte (porque estos vertebrados utilizan cavidades)
 ![[Pasted image 20241008102558.png]] 

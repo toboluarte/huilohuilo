@@ -4,10 +4,10 @@ Conocidos comunmente como aves rapacez, aún que caracaras y halcones están má
 # Parabuteo Unicintus
 # Accipiter bicolor chilensis
 # Buteo jamaicensis ventralis
-# circus cinereus
+# Circus cinereus
 # Buteo albigula
 # Milvago chimango
-# caracara plancus
+# Caracara plancus
 # Phalcoboenus megalopterus
 # Phalcoboenus albogularis
 # Falco spaveruis
