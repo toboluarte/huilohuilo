@@ -1,6 +1,15 @@
-## Autores
+---
+Fecha: "2019"
+Locacion: Reserva biológica, Panguipulli, Región de Los Ríos Chile
+Institución: "[[Pontificia Universidad Católica de Chile]]"
+Autor: Honorato, Altamirano
+Estado del trabajo: Terminado
+---
+#Investigación #Rayadito_monitodelmonte #Conservacion 
 
-Teresa Honorato.
+
+
+
 # Términos útiles
 **Nest Clutch**: Es el total de huevos que un ave deja por intento de nido, en general es un término para referirse  al esfuerzo parental.
 ![[Pasted image 20241008105900.png]]

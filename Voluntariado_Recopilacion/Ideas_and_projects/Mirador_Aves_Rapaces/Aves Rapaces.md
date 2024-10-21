@@ -1,3 +1,15 @@
+## Sonidos de Aves
+Podría ser interesante agregar los sonidos de las aves que se están mostrando, agregar los volcanes.
+https://avesdechile.cl/multimed.htm
+## Nidos tamaños de huevos y clutch sizes
+
+Nidos agregando los tamaños de huevos y investigación de [[Elevation has contrasting effects on avian and mammaliannest traits in the Andean temperate mountains]] 
+## Siluetas de las especies más emblemáticas 
+Generar diseño de las siluetas de las aves más importantes.
+## Relevance of raptors
+
+cuál es la relevancia de las aves rapaces en el ecosistema.
+
 Las **aves rapaces** o **raptoriales** se clasifican bajo este término debido a un conjunto de características anatómicas, fisiológicas y comportamentales que las diferencian de otras aves. El término "rapaz" proviene del latín _raptare_, que significa "apoderarse" o "arrastrar", haciendo referencia a su habilidad para capturar y matar presas.
 
 ### Principales características que las clasifican como aves rapaces:

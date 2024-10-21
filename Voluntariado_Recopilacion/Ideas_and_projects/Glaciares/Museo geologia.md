@@ -1,0 +1,3 @@
+Bienvenido!
+Felicitaciones, encantado de que lo hayas logrado, llegar aquí no ha sido fácil, de hecho sospechamos que ha sido un poco más dificil de lo que te das cuenta.
+Para empezar para que estés aquí trillones de átomos a la deriva tuvieron que ensamblarse de alguna manera para crearte...
