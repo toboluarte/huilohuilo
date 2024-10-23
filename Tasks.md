@@ -7,8 +7,6 @@ banner: "![[espacio.png]]"
 
 ## To do
 
-- [ ] Generar Base de datos de los hongos de la reserva
-- [ ] Contrastar pantonera con la base dato  de maria jose diban
 - [ ] Trabajar idea de recalcar las las caracteristicas de la naturaleza del sur de Chile, distanciarse de los paises caribeños.
 - [ ] Philipp Ruprecht estudios de volcan, profundizar http://www.volcanology.info/
 - [ ] Revisar estudios briofitas
@@ -22,8 +20,10 @@ banner: "![[espacio.png]]"
 
 - [x] RECOPILACIÓN AVIARIO
 - [x] En base a los artículos leidos de magma, propuesta de ideas
+- [x] Generar Base de datos de los hongos de la reserva
 - [x] Contacto Honorato (aves)
 - [x] Profundización en investigación de los volcanes en Chile
+- [x] Contrastar pantonera con la base dato  de maria jose diban
 - [x] Generar infografías en base a los artículos de glaciar
 - [x] En base a los artículos leidos de Aves, propuesta de ideas
 - [x] Unificar base de datos

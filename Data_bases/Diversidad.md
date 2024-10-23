@@ -6,7 +6,7 @@ database-plugin: basic
 
 ```yaml:dbfolder
 name: new database
-description: new description
+description: Diversidad biológica Reserva biológica huilo huilo
 columns:
   __file__:
     key: __file__
@@ -22,7 +22,7 @@ columns:
     isHidden: false
     sortIndex: 1
     isSorted: true
-    isSortedDesc: true
+    isSortedDesc: false
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -142,6 +142,63 @@ columns:
     key: Clase
     id: Clase
     label: Clase
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Familia:
+    input: text
+    accessorKey: Familia
+    key: Familia
+    id: Familia
+    label: Familia
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 120
+      media_height: 120
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  NombreComún:
+    input: text
+    accessorKey: NombreComún
+    key: NombreComún
+    id: NombreComún
+    label: NombreComún
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Ave_Rapaz:
+    input: checkbox
+    accessorKey: Ave_Rapaz
+    key: Ave_Rapaz
+    id: Ave_Rapaz
+    label: Ave_Rapaz
     position: 100
     skipPersist: false
     isHidden: false
