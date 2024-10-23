@@ -1,12 +1,26 @@
+## Paneles interactivos para identificar y reconocer características de las aves rapaces
+### Descubre las Aves Rapaces de la reserva
+En nuestra reserva hemos sido capaces de observar 19 aves rapaces. Serías capaz?
+ * Las aves rapaces se dividen en aves diurnas () y aves nocturnas ()
+ * 
+##### Nombre del Ave
+###### Silueta del ave
+                  ### Boton de sonido
+#### Datos
+###### ¿Cuáles datos?
+
+¿ Cómo se podría hacer?
 ## Sonidos de Aves
 Podría ser interesante agregar los sonidos de las aves que se están mostrando, agregar los volcanes.
-https://avesdechile.cl/multimed.htm
+https://avesdechile.cl/multimed.htm.
+Los sonidos están descargados, tengo que encontrar una forma de hacerlos reproducibles y que toleren el desgaste del medio, considerando agua nieve etc
+
 ## Nidos tamaños de huevos y clutch sizes
 
 Nidos agregando los tamaños de huevos y investigación de [[Elevation has contrasting effects on avian and mammaliannest traits in the Andean temperate mountains]] 
 ## Siluetas de las especies más emblemáticas 
 Generar diseño de las siluetas de las aves más importantes.
-## Relevance of raptors
+## Importancia de las Rapaces en el ecosistema
 
 cuál es la relevancia de las aves rapaces en el ecosistema.
 
@@ -59,6 +73,7 @@ Buitres del nuevo mundo
 Aguilas, halcones
 [[Accipitriformes]]
 # Stringiformes
+Rapaces Nocturnas
 [[Strigiformes]]
 # Falconiformes
 [[Falconiformes]]
