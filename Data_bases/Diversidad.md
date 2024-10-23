@@ -20,7 +20,9 @@ columns:
     csvCandidate: true
     position: 0
     isHidden: false
-    sortIndex: -1
+    sortIndex: 1
+    isSorted: true
+    isSortedDesc: true
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -41,7 +43,7 @@ columns:
     skipPersist: false
     csvCandidate: true
     position: 0
-    isHidden: false
+    isHidden: true
     sortIndex: -1
     config:
       enable_media_view: true
@@ -63,7 +65,7 @@ columns:
     skipPersist: false
     csvCandidate: true
     position: 0
-    isHidden: false
+    isHidden: true
     sortIndex: -1
     config:
       enable_media_view: true
@@ -102,6 +104,25 @@ columns:
     key: Especie
     id: Especie
     label: Especie
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Orden:
+    input: text
+    accessorKey: Orden
+    key: Orden
+    id: Orden
+    label: Orden
     position: 100
     skipPersist: false
     isHidden: false

@@ -69,7 +69,8 @@ output_folders = {
     'Reptiles': 'Reptiles',
     'Anfibios': 'Anfibios',
     'Mamiferos': 'Mamiferos',
-    'Insectos': 'Insectos'
+    'Insectos': 'Insectos',
+    'Fungi': 'Fungi'
 }
 
 # Asegurarse de que las carpetas existen
@@ -83,3 +84,5 @@ read_markdown_and_convert_to_yaml('csv/Reptiles.md', output_folders['Reptiles'])
 read_markdown_and_convert_to_yaml('csv/Anfibios.md', output_folders['Anfibios'])
 read_markdown_and_convert_to_yaml('csv/Mamiferos.md', output_folders['Mamiferos'])
 read_markdown_and_convert_to_yaml('csv/Insectos.md', output_folders['Insectos'])
+read_markdown_and_convert_to_yaml('csv/Fungi.md', output_folders['Fungi'])
+
