@@ -1,5 +1,5 @@
 ---
-Clase: 
+Clase: Fungi
 Orden: Polyporales
 Familia: Polyporaceae
 Género: 

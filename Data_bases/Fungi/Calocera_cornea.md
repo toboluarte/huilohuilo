@@ -1,5 +1,5 @@
 ---
-Clase: 
+Clase: Fungi
 Orden: Dacrymycetales
 Familia: Dacrymycetaceae
 Género: 

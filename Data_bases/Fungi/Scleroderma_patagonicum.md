@@ -1,5 +1,5 @@
 ---
-Clase: 
+Clase: Fungi
 Orden: Boletales
 Familia: Sclerodermaceae
 Género: 

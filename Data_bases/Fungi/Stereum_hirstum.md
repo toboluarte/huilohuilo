@@ -1,5 +1,5 @@
 ---
-Clase: 
+Clase: Fungi
 Orden: Russulales
 Familia: Stereaceae
 Género: 

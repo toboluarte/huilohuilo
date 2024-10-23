@@ -1,5 +1,5 @@
 ---
-Clase: 
+Clase: Fungi
 Orden: Auriculariales
 Familia: Exidiaceae
 Género: 

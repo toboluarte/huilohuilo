@@ -1,5 +1,5 @@
 ---
-Clase: 
+Clase: Fungi
 Orden: Agaricales
 Familia: Entolomataceae
 Género: 

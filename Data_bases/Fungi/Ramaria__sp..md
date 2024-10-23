@@ -1,5 +1,5 @@
 ---
-Clase: 
+Clase: Fungi
 Orden: Gomphales
 Familia: Gomphaceae
 Género: 

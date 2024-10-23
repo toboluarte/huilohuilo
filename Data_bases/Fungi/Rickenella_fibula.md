@@ -1,5 +1,5 @@
 ---
-Clase: 
+Clase: Fungi
 Orden: Hymenochaetales
 Familia: Rickenellaceae
 Género: 
