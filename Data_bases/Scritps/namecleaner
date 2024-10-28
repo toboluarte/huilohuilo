@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# Carpeta en la que se van a cambiar los nombres de archivos
+folder="."
+
+# Cambiar a la carpeta donde están los archivos
+cd "$folder" || exit
+
+# Iterar sobre todos los archivos que contengan guiones bajos en el nombre
+for file in *; do
+    if [[ "$file" == *_* ]]; then
+        # Nuevo nombre con espacios en lugar de guiones bajos
+        new_file=$(echo "$file" | sed 's/_/ /g')
+        
+        # Renombrar el archivo
+        mv "$file" "$new_file"
+    fi
+done
+
+echo "Renombrado completado."

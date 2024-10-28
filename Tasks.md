@@ -32,6 +32,7 @@ banner: "![[espacio.png]]"
 - [x] Generar Animación Glaciar (Schaefer), Linea de tiempo con hitos del volcán.
 - [x] Investigaciones Moreno Lara
 - [x] Profundizar en las especies de la pantonera [[Pantonera]]
+- [x] Pulir la publicación del sitio web
 
 
 ## TERMINADO

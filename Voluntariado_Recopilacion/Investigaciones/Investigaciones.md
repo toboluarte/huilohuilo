@@ -1,5 +1,5 @@
-[[Investigación geológica]]
-[[Investigación en Hongos]]
-[[Investigación en Glaciares]]
-[[Investigación en aves]]
+[[Investigación Geológica]]
+[[Investigación En Hongos]]
+[[Investigación En Glaciares]]
+[[Investigación En Aves]]
 
