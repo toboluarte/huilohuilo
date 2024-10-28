@@ -14,11 +14,11 @@ banner: "![[espacio.png]]"
 - [ ] Revisar documentación de conservacion
 - [ ] Generar KPI's de conservación
 - [ ] Busqueda de KPI's de conservación
+- [ ] Linea de tiempo con historia geologica del complejo glacial mocho
 
 
 ## EN PROCESO
 
-- [x] RECOPILACIÓN AVIARIO
 - [x] En base a los artículos leidos de magma, propuesta de ideas
 - [x] Generar Base de datos de los hongos de la reserva
 - [x] Contacto Honorato (aves)
@@ -37,6 +37,7 @@ banner: "![[espacio.png]]"
 ## TERMINADO
 
 - [x] Presentacion avance
+- [x] RECOPILACIÓN AVIARIO
 - [x] Contacto Marius (Glaciares)
 - [x] Contribución especies arboleas restantes
 - [x] En base a los artículos leidos de glaciares, propuesta de ideas

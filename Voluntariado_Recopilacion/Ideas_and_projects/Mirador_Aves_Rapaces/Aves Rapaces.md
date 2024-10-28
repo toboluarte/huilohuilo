@@ -1,15 +1,41 @@
 ## Paneles interactivos para identificar y reconocer características de las aves rapaces
+
+![[DALL·E 2024-10-28 09.18.19 - An interactive display for a birdwatching lookout, with vertical columns featuring rotating wooden cubes. Each cube is suspended on a central metallic.webp]]
+## Panel Introductorio
 ### Descubre las Aves Rapaces de la reserva
-En nuestra reserva hemos sido capaces de observar 19 aves rapaces. Serías capaz?
- * Las aves rapaces se dividen en aves diurnas () y aves nocturnas ()
- * 
-##### Nombre del Ave
+En nuestra reserva hemos sido capaces de observar 19 aves rapaces. ¿Quieres conocerlas?
+ Las aves rapaces, llamadas así por su habilidad para capturar y matar presas (del latín raptare).  Un grupo de aves que ha sido clasificado en 2 grandes grupos, Diurnas y nocturnas. Existiendo  3 ordenes para aves diurnas (Faconiformes, Acciptitriformes y Cathartiformes) y 2 para aves nocturnas (Stringiformes y tytonidae)
+### Relevancia de las Aves rapaces en el ecosistema
+Este grupo de aves tiene un rol importante en muchas culturas a lo largo del mundo, condensando ideales de poder, vitalidad y nobleza.
+ Desde una perspectiva ecológica, las aves rapaces son los depredadores tope en casi todos los ecosistemas terrestres al rededor de la tierra, lo que significa que se encargan de regular las poblaciones de las presas, estructurando las comunidades naturales, por estas características, son especies particularmente sensibles a los cambios ambientales, siendo especies amenazadas constantemente con los cambios en las habitats naturales.
+
+# Módulos
+## Cara 1
+
 ###### Silueta del ave
                   ### Boton de sonido
-#### Datos
-###### ¿Cuáles datos?
+                
+## Cara 2
+#### Datos: 
+Estado de conservación:
+Familia y Orden:
+Nombre cientifico:
+Tamaño:
+Envergadura alar:
+Descripción física:
 
-¿ Cómo se podría hacer?
+## Cara 3
+###### Distribución geográfica:
+Mapa de Chile con relieve coloreado en las zonas que habita.
+¿Es necesario si todas las aves serán de la reserva?
+## Cara 4
+#### Ilustración hembra 
+Podría ser una representación de dimorfismo sexual. 1 cara para la hembra una cara para el macho 
+#### Tipo de nido 
+Ilustración del nido y huevos 
+Información y caracteristicas reproductiva:
+#### Curiosidades
+Cualquier dato o creencia asociada a esta especie
 ## Sonidos de Aves
 Podría ser interesante agregar los sonidos de las aves que se están mostrando, agregar los volcanes.
 https://avesdechile.cl/multimed.htm.
@@ -18,11 +44,9 @@ Los sonidos están descargados, tengo que encontrar una forma de hacerlos reprod
 ## Nidos tamaños de huevos y clutch sizes
 
 Nidos agregando los tamaños de huevos y investigación de [[Elevation has contrasting effects on avian and mammaliannest traits in the Andean temperate mountains]] 
-## Siluetas de las especies más emblemáticas 
-Generar diseño de las siluetas de las aves más importantes.
-## Importancia de las Rapaces en el ecosistema
 
-cuál es la relevancia de las aves rapaces en el ecosistema.
+
+# Information to build
 
 Las **aves rapaces** o **raptoriales** se clasifican bajo este término debido a un conjunto de características anatómicas, fisiológicas y comportamentales que las diferencian de otras aves. El término "rapaz" proviene del latín _raptare_, que significa "apoderarse" o "arrastrar", haciendo referencia a su habilidad para capturar y matar presas.
 
@@ -65,9 +89,7 @@ Se observan manoiobras acrobáticas, acompañadas algunas veces por vocalizació
 
 ![[Pasted image 20241016123312.png]]
 
-# Cathariformes
-Buitres del nuevo mundo
-[[Cathartiformes]]
+
 
 # Accipitriformes
 Aguilas, halcones
@@ -77,6 +99,8 @@ Rapaces Nocturnas
 [[Strigiformes]]
 # Falconiformes
 [[Falconiformes]]
-
+## Cathariformes
+Buitres del nuevo mundo
+[[Cathartiformes]]
 
  
