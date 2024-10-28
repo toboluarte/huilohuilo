@@ -18,7 +18,7 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 0
+    position: 1
     isHidden: false
     sortIndex: 1
     isSorted: true
@@ -42,7 +42,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: true
-    position: 0
+    position: 2
     isHidden: true
     sortIndex: -1
     config:
@@ -64,7 +64,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: true
-    position: 0
+    position: 3
     isHidden: true
     sortIndex: -1
     config:
@@ -86,7 +86,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: false
-    position: 0
+    position: 4
     isHidden: false
     sortIndex: -1
     config:
@@ -104,7 +104,7 @@ columns:
     key: Especie
     id: Especie
     label: Especie
-    position: 100
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -123,7 +123,7 @@ columns:
     key: Orden
     id: Orden
     label: Orden
-    position: 100
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -142,7 +142,7 @@ columns:
     key: Clase
     id: Clase
     label: Clase
-    position: 100
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -161,7 +161,7 @@ columns:
     key: Familia
     id: Familia
     label: Familia
-    position: 100
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -180,7 +180,7 @@ columns:
     key: NombreComún
     id: NombreComún
     label: NombreComún
-    position: 100
+    position: 9
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -199,7 +199,7 @@ columns:
     key: Ave_Rapaz
     id: Ave_Rapaz
     label: Ave_Rapaz
-    position: 100
+    position: 10
     skipPersist: false
     isHidden: false
     sortIndex: -1

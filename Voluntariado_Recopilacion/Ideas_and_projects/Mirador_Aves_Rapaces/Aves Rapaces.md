@@ -31,7 +31,7 @@ Mapa de Chile con relieve coloreado en las zonas que habita.
 ## Cara 4
 #### Ilustración hembra 
 Podría ser una representación de dimorfismo sexual. 1 cara para la hembra una cara para el macho 
-#### Tipo de nido 
+#### Tipo de nido  y clutch sizes
 Ilustración del nido y huevos 
 Información y caracteristicas reproductiva:
 #### Curiosidades
@@ -41,12 +41,8 @@ Podría ser interesante agregar los sonidos de las aves que se están mostrando,
 https://avesdechile.cl/multimed.htm.
 Los sonidos están descargados, tengo que encontrar una forma de hacerlos reproducibles y que toleren el desgaste del medio, considerando agua nieve etc
 
-## Nidos tamaños de huevos y clutch sizes
 
-Nidos agregando los tamaños de huevos y investigación de [[Elevation has contrasting effects on avian and mammaliannest traits in the Andean temperate mountains]] 
-
-
-# Information to build
+# Core information
 
 Las **aves rapaces** o **raptoriales** se clasifican bajo este término debido a un conjunto de características anatómicas, fisiológicas y comportamentales que las diferencian de otras aves. El término "rapaz" proviene del latín _raptare_, que significa "apoderarse" o "arrastrar", haciendo referencia a su habilidad para capturar y matar presas.
 
