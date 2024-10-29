@@ -1,3 +1,4 @@
+
 | Clase | Orden             | Familia           | Género             | Especie                            | NombreComún               | CategoríaUICN      | EstadoConservaciónNacional | SectorenlaRBHH | Presencia | TipoDeDato | Fuente |
 | ----- | ----------------- | ----------------- | ------------------ | ---------------------------------- | ------------------------- | ------------------ | -------------------------- | -------------- | --------- | ---------- | ------ |
 | Aves  | Ciconiiformes     | Cathartidae       | Vultur             | [[Vultur gryphus]]                 | Cóndor Andino             | Casi amenazada     |                            |                |           |            |        |

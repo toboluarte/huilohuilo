@@ -31,5 +31,3 @@ Finalmente y a modo de reflexión personal, la ciencia carece de sentido si es q
 * [[Relevancia de productos naturales Basados en hongos]]: Recopilatorio de las múltiples oportunidades que ofrece este fascinante domino de la vida.
 
 
-
-

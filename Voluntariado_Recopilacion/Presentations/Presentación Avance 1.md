@@ -13,7 +13,7 @@
 # Tópicos de las investigaciones
 
 * Monitoreo de Glaciares.
-
+ 
 * Clasificación de especies de Hongos.
 
 * Caracterización Geológica del Volcan Mocho Choshuenco.

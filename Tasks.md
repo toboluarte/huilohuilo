@@ -15,6 +15,10 @@ banner: "![[espacio.png]]"
 - [ ] Generar KPI's de conservación
 - [ ] Busqueda de KPI's de conservación
 - [ ] Linea de tiempo con historia geologica del complejo glacial mocho
+- [ ] Generar reporte de proyectos vida silvestres
+- [ ] Proyecto: Huemul, Puma, Guanaco, Ranita
+- [ ] Pedir libro de fernando vidal
+- [ ] Enviar correo, solicitando informes de universidad de diuk (Rodolfo)
 
 
 ## EN PROCESO
