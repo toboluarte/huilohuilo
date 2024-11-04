@@ -1,0 +1,2 @@
+Las leyes de la termodinámica, son frecuentemente invocadas para la construcción de modelos de ecosistemas y han sido extendidos para generar modelos de las interacciones humano-ambiente.
+La cantidad de energía disponible en universo está cayendo, porque toda acción requiere energía 

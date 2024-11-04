@@ -1,0 +1,2 @@
+Fue uno de los pioneros en la teoria de utilidad marginal. Sin embargo, más relevante fue su interés y reconocimiento por la relevancia de la energía, que en su época era el carbón.
+El argunmentaba que el éxito de la economía británica dependia del carbon, esto le permitió tener notoriedad como economista, postulando la muy conocidad paradoja de Jevons, que índica que un uso eficiente de un recurso puede resultar en un aumento de su uso en vez de una disminución de su uso.

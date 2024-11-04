@@ -1,0 +1,3 @@
+Aún que se diga que la ecología tiene sus raices en la antigua Grecia, la ecología no surgió como una disciplina auto conciente hasta el nombraviento de Ernst Heinrich Haeckel, acuñando la primera definición de ecología.
+**"Por ecologia,nos referimos a el cuerpo de conocimiento que compete a la economía de la naturaleza, la investigación de todas las relaciones de los animales con su entorno inorgánico y orgáncio. En una palabra ecología es el estudio de todas las interrelaciones complejas referidas por Darwin como las condiciones de la lucha por la existencia"**
+En términos prácticos la ecología se transformó en el estudio de la economia de la naturaleza que no incorpora al humano.
