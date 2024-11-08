@@ -1,0 +1,6 @@
+Una de las barreras más fuertes de la unión entre la ecología y la economía ha sido el supuesta que la ecología y la economía son sistemas separables y no necesitan ser entendidos juntos.
+
+El nicho en el cual las especies evolucionan ha sido frecuentemente descrito como nicho físico fijo. Con las características del nicho fijas, la evolución adquiere una dirección y las historias evolutivas usualmente tienden a que las especies se adapten progresivamente mejor y mejor.
+
+![[Pasted image 20241104140834.png]]
+La perspectiva coevolutiva nos ayuda a ver los problemas de la humanidad interactuando con el ambiente, y que esta interacción no es simplemente establecer incentivos de mercado o reglas apropiadas para el uso de la propiedad. Nuestros valores, conocimiento y organización social ha coevolucionado al rededor de los hidrocarburos fósiles. Nuestra economía fósil no sólo transformó el medio ambiente, ha seleccionado valores individualistas y materialistas, favoreciendo el desarrollo de una comprensión reduccionista a expensas de un entendimiento sistémico y ha privilegiado un control burocrático, centralizado que funciona mejor para la administración industrial. Este proceso de coevolución destaca como nuestras formas de percibir y resolver problemas ambientales dentro de las formas dominantes de valorización, pensamiento y organización están restringidos.

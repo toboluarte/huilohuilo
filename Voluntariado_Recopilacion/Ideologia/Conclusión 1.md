@@ -1,0 +1,2 @@
+La ecología económica continua evolucionando por medio de la interacción de diversos patrones de pensamiento con múltiples raices disciplinarias. Este enfoque multidisciplinario y trasgresor en el sentido de cuestionar las asumpciones historicas, ha significado un gran riesgo de ser excluidos por sus pares de disciplina.
+Aún cuando esta disciplina tiene múltiples aproximaciones existe un principio rector. La tierra tiene una capacidad limitada para la sustentar las poblaciones humanas y de esto derivan los limites de recursos y umbrales ecológicos.
