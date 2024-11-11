@@ -1,0 +1,1 @@
+Con un enfoque sistémico el proyecto del guanaco nace como una forma de  entregar otro recurso trófico a los depredadores de la reserva, en particular para el puma, dado que se ha demostrado que es potencialmente beneficioso para la reintroducción del huemul

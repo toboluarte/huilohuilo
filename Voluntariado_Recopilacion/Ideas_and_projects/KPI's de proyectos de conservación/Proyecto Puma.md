@@ -1,0 +1,2 @@
+Se pretende identificar las posibles amenazas ambientales directas y naturales para el Huemul. Eventualmente este felino podría ser una piedra de tope para el proyecto [[El Huemul Un Futuro Posible]], aún cuando hayan coexistido por miles de años.
+Este proyecto tiene como objetivo la captura y la postura de radio collar para conocer la cantidad de ejemplares que habitan la reserva, conocer aspectos conductuales y como interactua con el huemul, el guanaco y los ecosistemas
