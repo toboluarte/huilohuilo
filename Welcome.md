@@ -1,6 +1,6 @@
 # Hola :)   
 
-Bienvenido a una recopilación de mi trabajo en la fundación huilo huilo como voluntario.
+Bienvenido a una recopilación de mi trabajo en la fundación Huilo Huilo como voluntario.
 En este voluntariado estoy intentado recopilar todas investigaciones que se han realizado en la reserva  biológica, y en general ordenando el flujo de información.
 
 ## **Tópicos de investigación:**
@@ -30,9 +30,14 @@ La ciencia carece de sentido si es que no contribuye directamente a la sociedad 
 * [[Ideas Glaciar]]: Recopilación de ideas para utilizar el conocimiento generado en la múltiples investigaciones realizadas en la reserva.
 * [[Relevancia de productos naturales Basados en hongos]]: Recopilatorio de las múltiples oportunidades que ofrece este fascinante domino de la vida.
 
-## Contribución a la ideología de la reserva, marco teorico y sustentos ideológicos de los modelos de conservación.
-Como parte de este voluntariado, pretendo hacer recopilaciones bibliográficas orientadas a encausar a un marco conceptual las tareas que desempeña la fundación en el área de conservación biológica y vinculación de la comunidad con los servicios ecosistemicos.
-Para comenzar, debemos entender una de las problemáticas más grandes que ha enfrentado la especie humana, que precisamente es como incidimos en nuestro entorno [[El Dilema de la humanidad]].
+## Contribución a la ideología de la reserva, marco teórico y sustentos ideológicos de los modelos de conservación.
+
+Como parte de este voluntariado, pretendo hacer recopilaciones bibliográficas orientadas a encausar a un marco conceptual las tareas que desempeña la fundación en el área de conservación biológica y vinculación de la comunidad con los servicios ecosistémicos, desde una perspectiva académica y de los modelos de conservación que se han originado, en particular, aquellos que consideran al humano como parte del ecosistema. El producto esperado dentro de este objetivo es generar indicadores para cada uno de los proyectos de conservación que se llevan a cabo hoy en la fundación:
+* [[El Huemul Un Futuro Posible]]
+* 
+Para comenzar, debemos entender una de las problemáticas más grandes que ha enfrentado la especie humana, que precisamente es nuestro efecto en el entorno [[El Dilema de la humanidad]]. 
+
+
 
 
 
