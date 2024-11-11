@@ -1,0 +1,31 @@
+#!/bin/bash
+
+# Define la carpeta de los archivos de Obsidian
+input_folder="$HOME/Documents/Personales/Fundacion_Huilohuilo/huilo2024/Voluntariado_Recopilacion/Ideologia/"
+output_file="exportado.pdf"
+
+# Opcional: Borra el PDF anterior
+if [ -f "$output_file" ]; then
+    rm "$output_file"
+fi
+
+# Crea un archivo temporal para combinar todos los archivos markdown
+temp_combined="temp_combined.md"
+> "$temp_combined" # Limpiar o crear el archivo temporal
+
+# Itera sobre cada archivo .md en la carpeta
+find "$input_folder" -type f -name "*.md" -print0 | sort -z | while IFS= read -r '' file; do
+    # Extrae el nombre del archivo sin extensión para usarlo como título
+    title=$(basename "$file" .md)
+    echo -e "---\ntitle: $title\n---\n" >> "$temp_combined"  # Agrega el título en formato YAML al inicio de cada archivo
+    cat "$file" >> "$temp_combined"                          # Agrega el contenido del archivo
+    echo -e "\n\n" >> "$temp_combined"                       # Espacio entre archivos para separación
+done
+
+# Convierte el archivo temporal combinado en un PDF con pandoc y xelatex
+pandoc "$temp_combined" --pdf-engine=xelatex -s -o "$output_file"
+
+# Elimina el archivo temporal
+rm "$temp_combined"
+
+echo "Exportación completada. Archivo guardado como $output_file"

@@ -20,6 +20,8 @@ banner: "![[espacio.png]]"
 - [ ] Pedir libro de fernando vidal
 - [ ] Enviar correo, solicitando informes de universidad de diuk (Rodolfo)
 - [ ] Generar propuesta de informe tipo que entreguen los jefes de proyecto.
+- [ ] Analizar indicadores, viables y su cronología
+- [ ] Relaciones institucionales generar indicadores en conservación
 
 
 ## EN PROCESO

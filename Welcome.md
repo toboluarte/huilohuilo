@@ -34,8 +34,12 @@ La ciencia carece de sentido si es que no contribuye directamente a la sociedad 
 
 Como parte de este voluntariado, pretendo hacer recopilaciones bibliográficas orientadas a encausar a un marco conceptual las tareas que desempeña la fundación en el área de conservación biológica y vinculación de la comunidad con los servicios ecosistémicos, desde una perspectiva académica y de los modelos de conservación que se han originado, en particular, aquellos que consideran al humano como parte del ecosistema. El producto esperado dentro de este objetivo es generar indicadores para cada uno de los proyectos de conservación que se llevan a cabo hoy en la fundación:
 * [[El Huemul Un Futuro Posible]]
-* 
-Para comenzar, debemos entender una de las problemáticas más grandes que ha enfrentado la especie humana, que precisamente es nuestro efecto en el entorno [[El Dilema de la humanidad]]. 
+* [[Monitoreo a largo plazo de Poblaciones de ranita de Darwin]]
+* [[Proyecto Guanaco]]
+* [[Proyecto Puma]]
+
+Para comenzar, es necesario crear un [[Marco teórico]] utilizando como pilar las ideas planteadas por los grandes pensadores en perspectivas antropológicas, económicas y ecológicas desde el siglo XVII hasta hoy. 
+
 
 
 

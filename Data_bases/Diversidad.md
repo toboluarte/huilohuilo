@@ -32,6 +32,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      content_alignment: text-align-justify
   __created__:
     key: __created__
     id: __created__

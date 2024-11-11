@@ -26,19 +26,19 @@ Al final del plazo se espera mejorar los indicadores diseñados. Para el caso de
 * Reporte de especies invasoras y potenciales impactos, publicado.
 * Plataforma de ciencia ciudadana operativa.
 * Programas para el estudio de poblaciones.
-* Documentos con base de datos y mapas de baja resolución.
-* Personal capacitado.
-* Talleres y desarrollos de protocolo.
-* Publicaciones científicas.
+* <mark style="background: #FFF3A3A6;">Documentos con base de datos y mapas de baja resolución.</mark>
+* <mark style="background: #FFF3A3A6;"> Personal capacitado.</mark>
+* <mark style="background: #FFF3A3A6;">Talleres y desarrollos de protocolo</mark>.
+* <mark style="background: #FFF3A3A6;">Publicaciones científicas</mark>.
 * incluir número de personas informadas o capacitadas y
 * Numero de Programas de capacitación realizados.
 * Número de predios que han implementado DRC en sitios con presencia de las especies.
-* Priorización de áreas. Realizar acciones de protección de sitios con presencia de R. darwinii en y cercanos a senderos de alta visitación en Áreas Silvestres Protegidas
-* Número de sitios prioritarios restaurados.
+* <mark style="background: #FFF3A3A6;">Priorización de áreas. Realizar acciones de protección de sitios con presencia de R. darwinii en y cercanos a senderos de alta visitación en Áreas Silvestres Protegidas</mark>
+* <mark style="background: #FFF3A3A6;">Número de sitios prioritarios restaurados</mark>.
 * Protocolos disponibles revisados y actualizados.
 * Notificación de enfermedades al SAG.
 * Rescate in situ y ex situ de individuos de ranitas de Darwin.
 * Programas de control aplicados  Presencia/ausencia de poblaciones de R.darwinii.
-* Programas de educación y difusión implementados.
+* <mark style="background: #FFF3A3A6;">Programas de educación y difusión implementados</mark>.
 * Número de documentos de compromisos de actores clave, con categorización según nivel de acción y decisión. 
 * Empresas forestales certificadas en Forest Stewardship Council o CERTFOR participan de la implementación del plan.
