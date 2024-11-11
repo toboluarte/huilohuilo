@@ -19,6 +19,7 @@ banner: "![[espacio.png]]"
 - [ ] Proyecto: Huemul, Puma, Guanaco, Ranita
 - [ ] Pedir libro de fernando vidal
 - [ ] Enviar correo, solicitando informes de universidad de diuk (Rodolfo)
+- [ ] Generar propuesta de informe tipo que entreguen los jefes de proyecto.
 
 
 ## EN PROCESO
