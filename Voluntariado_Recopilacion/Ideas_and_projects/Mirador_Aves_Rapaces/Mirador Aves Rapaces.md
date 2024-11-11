@@ -1,6 +1,7 @@
 ## Paneles interactivos para identificar y reconocer características de las aves rapaces
-
 ![[DALL·E 2024-10-28 09.18.19 - An interactive display for a birdwatching lookout, with vertical columns featuring rotating wooden cubes. Each cube is suspended on a central metallic.webp]]
+
+
 ## Panel Introductorio
 ### Descubre las Aves Rapaces de la reserva
 En nuestra reserva hemos sido capaces de observar 19 aves rapaces. ¿Quieres conocerlas?

@@ -24,6 +24,7 @@ banner: "![[espacio.png]]"
 ## EN PROCESO
 
 - [x] En base a los artículos leidos de magma, propuesta de ideas
+- [ ] Contactar con ONG Ranita de darwin
 - [x] Generar Base de datos de los hongos de la reserva
 - [x] Contacto Honorato (aves)
 - [x] Profundización en investigación de los volcanes en Chile
