@@ -1,12 +1,17 @@
+---
+Especie: 
+Duración del periodo:
+---
+
 ## Introducción
 
 ### Resumen del periodo: 
 Breve actualización del estado del programa y su contexto desde el último reporte.
 ### Objetivos del Periodo:
-Foco desde el reporte anterior
-## Metas de corto plazo y progreso
+Foco del periodo a reportar
+## Progreso
 ### Resumen de Avances:
-Describir los avances hacia los objetivos del periodo
+Describir los avances hacia los objetivos del periodo.
 ### Evaluación de metas
 Señalar el estado de cumplimiento de metas específicas del periodo, resaltando logros y áreas donde debe exisitir mejora.
 ## Monitoreo y Ajuste del programa
@@ -28,7 +33,7 @@ Definir indicadores claros y medibles que reflejen los resultados esperados (ej.
 Mostrar el progreso o retroceso en comparación a periodos anteriores
 ### Factores Externos o Amenzas Emergentes
 Identificar si surgieron nuevas amenazas o factores externos influyentes
-##  Actividades de Monitoreo
+## Actividades de Monitoreo
 
 ### Actividades de Monitoreo:
 Listado de las actividades realizadas, como encuestas, observación directa o registros de avistamientos.

@@ -8,7 +8,7 @@ Duración: 15 años
 ---
 ## Introducción
 Los planes RECOGE (recuperación, conservación, gestión de especies) pasaron a manos del ministerio del medio ambiente desde el año 2010, cuyo principal objetivo es mejorar la conservación de las especies nativas de Chile, optimizando la coordinación entre los distintos órganos de la administración del estado para lograr una gestión eficaz en esta tarea.
-La ranita de darwin y el sapo vaquero [[Rhinoderma darwini]] [[Rhinoderma_rufum]], son especies nativas que han sido clasificadas según RCE en las categorías En peligro y Peligro Crítico, respectivamente.
+La ranita de darwin y el sapo vaquero [[Rhinoderma darwini]] [[Rhinoderma rufum]], son especies nativas que han sido clasificadas según RCE en las categorías En peligro y Peligro Crítico, respectivamente.
 Estas son las únicas especies que presentan cuidado parental, donde los machos crían a los renacuajos dentro de su saco vocal (categorizado como un grupo especial de anfibios). Lamentablemente rufum no ha sido observada desde 1981, siendo posiblemente extinta.
 Dado el creciente interés científico el 2018 se impulso la creación de la [[Estrategia Binacional de Conservación de las Ranitas de Darwin]], Siendo una iniciativa que reúne a 24 organizaciones gubernamentales, sin fines de lucro y privadas de Chile, Argentina, Alemania y el Reino Unido.
 ## Objetivos

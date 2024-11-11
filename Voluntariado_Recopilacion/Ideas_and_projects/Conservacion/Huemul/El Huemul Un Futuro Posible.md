@@ -11,8 +11,8 @@ Proyecto liderado por la presidenta de la fundación Ivonne Reifchneider López,
 ### Corto y mediano plazo
 Establecer de manera exitosa un centro de reproducción de huemul en la reserva Huilo Huilo
 ### Largo plazo
-* Reproducir exitosamente el huemul en la porción norte de la regiób de los rios, fundando una poblacion viable en el largo plazo.
-* Aportar información y experiencia sobre metodología, eficiencia y viabilidad de futuros centros de reproducción e iniciativas de reintroduccion.
+* Reproducir exitosamente el huemul en la porción norte de la región de los ríos, fundando una poblacion viable en el largo plazo.
+* Aportar información y experiencia sobre metodología, eficiencia y viabilidad de futuros centros de reproducción e iniciativas de reintroducción.
 * Aumentar el número efectivo de la población de huemules de la región de los Lagos
 ## Formulación del proyecto
 El primer paso para poder formular el proyecto fue hacer un sondeo, en las localidades de Neltume y Puerto Fuy, para determinar la presencia actual o historica del Huemul. Basado en los testimonios orales de los locales, quienes dijieron haber visto y cazado huemules en la década de los 90,se determinó la presencia histórica del huemul.
