@@ -58,7 +58,7 @@ Superaron dificultades experimentadas en esfuerzos previos desde el año 1970, r
 
 Estandarización del protocolo, desde métodos de captura, contención y aguante, mantención en cautiverio 
 
-## Reitroducción de Huemules
+## Reintroducción de Huemules
 
 Para un buen programa de reintroducción se reqiuiere:
 1. Poblaciones cautivas autosustentables: Población viable con representatividad genética adecuada. Población capaz de tolerar la pérdida de animales durante el período de tiempo en que se realiza la introducción
