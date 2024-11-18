@@ -12,3 +12,6 @@ Presencia:
 TipoDeDato: 
 Fuente: ""
 ---
+## Interacciones
+### Dieta
+[[Lepus_capensis]]

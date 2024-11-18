@@ -32,4 +32,4 @@ Múltiples autores han desarrollado un indicador de salud corporal basado en res
 ## Analisis Fecal
 En post de generar métricas respecto a la salud reproductiva de las hembras, se ha demostrado a nivel de literatura que es posible registrar y analizar las heces en busqueda de las concentraciones de estrogéno y progesterona, incluso en base a estos resultados inducir ovulación por medio de terapia de Gnrh y hCG (humanas). Estas aproximaciones se han realizado para cheetas y rinocerontes por Barabara Durrant.
 ## Motilidad de espermios
-Con el propósito de medir la salud reproductiva de los machos, se analiza la velocidad de los espermios, fuerza de nado y puntuación de velocidad de progreso, además se calculan las trayectorias de nado y se diseñan trampas con pinzas óptocas, para tener una evaluación global.
+Con el propósito de medir la salud reproductiva de los machos, se analiza la velocidad de los espermios, fuerza de nado y puntuación de velocidad de progreso, además se calculan las trayectorias de nado y se diseñan trampas con pinzas ópticas, para tener una evaluación global.

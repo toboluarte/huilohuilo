@@ -53,7 +53,7 @@ Como se mencionó en el apartado de objetivos  es necesario que los indicadores 
 4. Avisatamientos fuera del centro de reproducción, ya sea por cámaras trampa o guarda parques de individuos no monitorizados con radio collares.
 #### Sustentabilidad del proyecto
 1. Efectos en la biodiversidad local: Evaluación de impacto en otras especies del ecosistema local. Respaldado en estudio de cadenas tróficas, se debe monitorear las interacciones cercanas en la red del Huemul. (Puma, Guanaco, etc)
-2.  Dimensión cultural y aumento de interés por la comunidad. Medido como numero de asistentes a charlas y actividades de difusión y reporte del plan de reproducción del huemul, a su vez el número de denuncias/reportes en contra actividades que perjudiquen la conservación del huemul, ya sean fuegos ilegales, pernoctar en lugares no adecuados,etc
+2.  Dimensión cultural y aumento de interés por la comunidad. Medido como numero de asistentes a charlas y actividades de difusión y reporte del plan de reproducción del huemul, a su vez el número de denuncias/reportes en contra actividades que perjudiquen la conservación del huemul, ya sean fuegos ilegales, pernoctar en lugares no adecuados,etc 
 ### Reporte de Indicadores Seleccionados:
 Seleccionar dentro de los indicadores mencionados anteriormente y reportalrlos, debemos recordar que estos pretender reflejar los resultados esperados (ej. número de avistamientos ).
 ### Comparativa Interperiodos:

@@ -12,3 +12,12 @@ Presencia: Registro por reintroducción
 TipoDeDato: Reintroducido
 Fuente: "Proyecto de conservación Huemul del Sur. Fundación Huilo Huilo"
 ---
+
+## Interacciones
+### Dieta
+[[aff._canescens]]
+[[aff._Cyperoides]]
+[[aff._melanostachys]]
+[[aff._pachycarpa]]
+[[californicus]]
+[[macrostachya]]
