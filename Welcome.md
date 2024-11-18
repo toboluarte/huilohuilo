@@ -22,6 +22,7 @@ En estas tablas podrás explorar gran parte las especies que existen en la reser
 * [[Anfibios]]
 * [[Fungi]]
 * [[Peces]]
+* [[Flora]]
 ## Ideas & proyectos
 
 La ciencia carece de sentido si es que no contribuye directamente a la sociedad y da respuesta a interrogantes relevantes [[Fragmentación de la economía y ciencias naturales]]. Es por esto que la idea es generar algún tipo de producto con cada una de las investigaciones, ya sea difusión del conocimiento a la comunidad local, monitoreo y proteción a ciertas especies o una aplicación directa del conocimiento generado.
