@@ -19,3 +19,5 @@ Depreda:
 [[Sus_scrofa]]
 [[Lama_guanicoe]]
 [[Lepus_capensis]]
+[[Pudu_puda]]
+
