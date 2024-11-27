@@ -37,7 +37,7 @@ Cambio en las prácticas o monitoreo en respuesta a la retroalimentación entreg
 ### Reporte de fallas y efectos negativos
 En esta sección se debe describir situaciones o acciones que hayan traido consecuencias negativas al programa de conservación que se está reportando
 ## Indicadores de Éxito
-Como se mencionó en el apartado de objetivos  es necesario que los indicadores estén vínculados a resultados directos, la selección de proxies de estos resultados puede variar según el objetivo planteado pero las prioridades para el plan de conservación del huemul las podemos listar:
+Como se mencionó en el apartado de objetivos  es necesario que los indicadores estén vinculados a resultados directos, la selección de proxies de estos resultados puede variar según el objetivo planteado pero las prioridades para el plan de conservación del huemul las podemos listar:
 ### Prioridades del plan de conservación del Huemul
 #### Infraestructura y logística del centro de conservación
 1. Capacidad de infraestructura: Metros cuadrados y cantidad de hectáreas asignadas, así como cantidad de zonas de cuarentena y alojamiento de especímenes.
@@ -55,7 +55,7 @@ Como se mencionó en el apartado de objetivos  es necesario que los indicadores 
 1. Efectos en la biodiversidad local: Evaluación de impacto en otras especies del ecosistema local. Respaldado en estudio de cadenas tróficas, se debe monitorear las interacciones cercanas en la red del Huemul. (Puma, Guanaco, etc)
 2.  Dimensión cultural y aumento de interés por la comunidad. Medido como numero de asistentes a charlas y actividades de difusión y reporte del plan de reproducción del huemul, a su vez el número de denuncias/reportes en contra actividades que perjudiquen la conservación del huemul, ya sean fuegos ilegales, pernoctar en lugares no adecuados,etc 
 ### Reporte de Indicadores Seleccionados:
-Seleccionar dentro de los indicadores mencionados anteriormente y reportalrlos, debemos recordar que estos pretender reflejar los resultados esperados (ej. número de avistamientos ).
+Seleccionar dentro de los indicadores mencionados anteriormente y reportarlos, debemos recordar que estos pretender reflejar los resultados esperados (ej. número de avistamientos ).
 ### Comparativa Interperiodos:
 Mostrar el progreso o retroceso en comparación a periodos anteriores. En el caso que los objetivos planteados coincidan con periodos anteriores se debe hacer una comparativa
 ### Factores Externos o Amenzas Emergentes
