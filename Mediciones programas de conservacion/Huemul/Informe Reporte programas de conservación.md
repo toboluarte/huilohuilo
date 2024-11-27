@@ -4,7 +4,7 @@ Los objetivos se deben separar en 2 temporalidades. Mensuales y anuales, globale
 Ejemplo:
 En esta sección se dejará un pool de objetivos globales y locales para trabajar, y discutir.
 
-| Objetivos Mensuales                                                                         | Objetivos Globales/ Anuales                                 |
+| Objetivos Mensuales o Accion a realizar                                                     | Objetivos Globales/ Anuales                                 |
 | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 | Monitoreo sistemático de la geolocalización de la población                                 | Cuidado, monitoreo y bien estar de la población de Huemules |
 | Monitoreo niveles de Hormonas Sexuales <br>(Progestagenos y Estrogeno en orina)             | Aumento de de la población en cautiverio y libre            |
@@ -25,13 +25,6 @@ indicar el área (Infraestructura, logística, transporte, veterinaria, conserva
 | Transporte  | 500.000    | 700.000   | Combustible subió                  | Boleta/factura N° 2123     | Cuidado, monitoreo y bienestar de la población de huemules |
 | Laboratorio | 1.500.000  | 2.000.000 | Aumento costo de analisis          | Boleta/factura N°402020    | Desarrollar área de ART                                    |
 
-# Participantes
-Se debe listar los participantes por actividades realizadas
-
-| Nombre          | Rol-Tarea                 | Equipos utilizados | Observación de los equipos y identificador del equipo |
-| --------------- | ------------------------- | ------------------ | ----------------------------------------------------- |
-| Jaime Rodríguez | Mantención de camino      | Motosierra         | Motosierra con problemas de arranque, ID:22554400     |
-| Juan Perez      | Trackeo de radio collares | GPS                | GPS en buen estado, ID: 1233445500                    |
 # Herramientas
 ## Cuidado, monitoreo y bienestar de la población de Huemules
 ### Planilla de monitoreo/ Avistamiento
@@ -71,14 +64,14 @@ Se deberá agregar un 1 para los criterios cuando se encuentren dentro de los ma
 Se debe sumar el puntaje obtenido en las categorias condición corporal, pelaje y piel, ojos, marcha y conducta y dividirlo en 5.
 
 
-| Fecha: TODOS LOS DIAS           |                 |              |              |            |                        |                   |          |            |              |                                                  |                         |
-| ------------------------------- | --------------- | ------------ | ------------ | ---------- | ---------------------- | ----------------- | -------- | ---------- | ------------ | ------------------------------------------------ | ----------------------- |
-| **Identificador del individuo** | **Hora inicio** | **Hora Fin** | **Posición** | **Altura** | **Condición corporal** | **Pelaje y piel** | **Ojos** | **Marcha** | **Conducta** | **Código etomográma**                            | **Indicador bienestar** |
-| Arturo                          | 9:31            | 9:50         | 23'10'       | 870m       | 1                      | 1                 | 0        | 1          | 0            | 1, 0,0,4,0,6,0,8,0,0,11<br>a,n,n,d,n,f,n,g,n,n,k | 0.6                     |
-| Individuo 2                     |                 |              |              |            |                        |                   |          |            |              |                                                  |                         |
-| Individuo 3                     |                 |              |              |            |                        |                   |          |            |              |                                                  |                         |
-| Individuo 4                     |                 |              |              |            |                        |                   |          |            |              |                                                  |                         |
-| ****                            |                 |              |              |            |                        |                   |          |            |              |                                                  |                         |
+| Mes: Diciembre                  |                 |              |              |            |                        |                   |          |            |              |                                                  |                         |                              |           |
+| ------------------------------- | --------------- | ------------ | ------------ | ---------- | ---------------------- | ----------------- | -------- | ---------- | ------------ | ------------------------------------------------ | ----------------------- | ---------------------------- | --------- |
+| **Identificador del individuo** | **Hora inicio** | **Hora Fin** | **Posición** | **Altura** | **Condición corporal** | **Pelaje y piel** | **Ojos** | **Marcha** | **Conducta** | **Código etomográma**                            | **Indicador bienestar** | **Dentro o fuera del cerco** | **Fecha** |
+| Arturo                          | 9:31            | 9:50         | 23'10'       | 870m       | 1                      | 1                 | 0        | 1          | 0            | 1, 0,0,4,0,6,0,8,0,0,11<br>a,n,n,d,n,f,n,g,n,n,k | 0.6                     | Dentro                       |           |
+| Individuo 2                     |                 |              |              |            |                        |                   |          |            |              |                                                  |                         |                              |           |
+| Individuo 3                     |                 |              |              |            |                        |                   |          |            |              |                                                  |                         |                              |           |
+| Individuo 4                     |                 |              |              |            |                        |                   |          |            |              |                                                  |                         |                              |           |
+| ****                            |                 |              |              |            |                        |                   |          |            |              |                                                  |                         |                              |           |
 
 ## Sustentabilidad del proyecto
 ### Cámaras Trampa
@@ -103,6 +96,7 @@ Con la captura de este dato pretende evaluar la robustez del sistema, es decir, 
 ### Reporte estado infraestructura y herramientas
 
 la idea es generar en detalle un reporte de todos los estados de las herramientas, infraestructura y generar una evaluación de los elementos utilizados, para destinar recursos de forma preventiva.
+identificador del equipo
 
 | Instrumento           | Estado e identificador (1-10) | Detalle de la evaluación | Relevancia en la operación (1-10) |
 | --------------------- | ----------------------------- | ------------------------ | --------------------------------- |
@@ -170,7 +164,8 @@ Para establecer los límites de tolerancia, se consideraran directrices desde de
 
 | Objetivo                                                   | Resultado Asociado                                                              | Limite de tolerancia inferior | Limite de tolerancia superior | Resultado obtenido | Observaciones              |
 | ---------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------- | ----------------------------- | ------------------ | -------------------------- |
-| Cuidado, monitoreo y bienestar de la población de Huemules | Contabilizar la población de huemules                                           | Población total               | Población total               | 40/40              |                            |
+| Cuidado, monitoreo y bienestar de la población de Huemules | Contabilizar la población de huemules dentro del cerco                          | 40                            | 40                            | 40/40              |                            |
+| Cuidado, monitoreo y bienestar de la población de Huemules | Contabilizar la población de huemules fuera del cerco                           | 10                            | 10                            | 10/10p             |                            |
 | Aumento de de la población en cautiverio y libre           | Crecimiento de la poblaición (Registro de nacimientos y arribos)                | 8                             | 12                            | 10                 | 8 nacimientos, 2 llegados  |
 | Aumento de de la población en cautiverio y libre           | Decrecimiento de población<br>(registros de escape y muerte)                    | 0                             | 0                             | 0                  |                            |
 | Sustentabilidad del proyecto                               | Evaluación de la infraestructura y herramientas                                 | 5                             | -                             | 10                 | Todo funciona bien         |
