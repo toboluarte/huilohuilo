@@ -12,3 +12,4 @@ Presencia:
 TipoDeDato: 
 Fuente: "Alfredo Ugarte"
 ---
+![[Pasted image 20241202122128.png]]

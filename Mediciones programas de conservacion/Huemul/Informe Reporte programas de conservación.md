@@ -4,6 +4,8 @@ Los objetivos se deben separar en 2 temporalidades. Mensuales y anuales, globale
 Ejemplo:
 En esta sección se dejará un pool de objetivos globales y locales para trabajar, y discutir.
 
+Separar los sub ejes de sustentabilidad 
+
 | Objetivos Mensuales o Accion a realizar                                                     | Objetivos Globales/ Anuales                                 |
 | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 | Monitoreo sistemático de la geolocalización de la población                                 | Cuidado, monitoreo y bien estar de la población de Huemules |
@@ -165,7 +167,7 @@ Para establecer los límites de tolerancia, se consideraran directrices desde de
 | Objetivo                                                   | Resultado Asociado                                                              | Limite de tolerancia inferior | Limite de tolerancia superior | Resultado obtenido | Observaciones              |
 | ---------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------- | ----------------------------- | ------------------ | -------------------------- |
 | Cuidado, monitoreo y bienestar de la población de Huemules | Contabilizar la población de huemules dentro del cerco                          | 40                            | 40                            | 40/40              |                            |
-| Cuidado, monitoreo y bienestar de la población de Huemules | Contabilizar la población de huemules fuera del cerco                           | 10                            | 10                            | 10/10p             |                            |
+| Cuidado, monitoreo y bienestar de la población de Huemules | Contabilizar la población de huemules fuera del cerco                           | 10                            | 10                            | 10/10              |                            |
 | Aumento de de la población en cautiverio y libre           | Crecimiento de la poblaición (Registro de nacimientos y arribos)                | 8                             | 12                            | 10                 | 8 nacimientos, 2 llegados  |
 | Aumento de de la población en cautiverio y libre           | Decrecimiento de población<br>(registros de escape y muerte)                    | 0                             | 0                             | 0                  |                            |
 | Sustentabilidad del proyecto                               | Evaluación de la infraestructura y herramientas                                 | 5                             | -                             | 10                 | Todo funciona bien         |

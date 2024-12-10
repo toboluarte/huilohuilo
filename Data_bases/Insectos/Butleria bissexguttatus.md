@@ -12,3 +12,4 @@ Presencia:
 TipoDeDato: 
 Fuente: ""
 ---
+![[Pasted image 20241202121446.png]]

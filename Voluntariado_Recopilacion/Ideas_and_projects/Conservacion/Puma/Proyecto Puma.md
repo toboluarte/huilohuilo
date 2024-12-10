@@ -1,2 +1,5 @@
 Se pretende identificar las posibles amenazas ambientales directas y naturales para el Huemul. Eventualmente este felino podría ser una piedra de tope para el proyecto [[El Huemul Un Futuro Posible]], aún cuando hayan coexistido por miles de años.
-Este proyecto tiene como objetivo la captura y la postura de radio collar para conocer la cantidad de ejemplares que habitan la reserva, conocer aspectos conductuales y como interactua con el huemul, el guanaco y los ecosistemas
+Este proyecto tiene como objetivo la captura y la postura de radio collar para conocer la cantidad de ejemplares que habitan la reserva, conocer aspectos conductuales y como interactua con el huemul, el guanaco y los ecosistemas.
+
+Los pumas pueden entrar en celos 2 veces al año, con un periodo de gestación de tres meses y pueden parir hasta 4 cachorros, este hecho genera la familia, cuando los cachorros cumplen 18-24 meses se desintegra la familia, y se alejan hasta 350 km.
+La dieta varia según la disponibilidad de presas. En la región austral del país su dieta está principalmente compuesta por el guanaco y también por la especie exótica liebre, incorporando otros carnivoros como chingue y zorro
