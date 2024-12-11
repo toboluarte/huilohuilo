@@ -4,7 +4,8 @@ import os
 def create_yaml(species_data, output_folder):
     # Crear nombre de archivo basado en la especie
     species_name = species_data['Especie'].replace(" ", "_")
-    file_name = f"{species_name}.
+    file_name = f"{species_name}.md"
+    
     # Contenido del archivo YAML
     content = f"""---
 Orden: {species_data['Orden']}

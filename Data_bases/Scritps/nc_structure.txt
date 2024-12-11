@@ -1,0 +1,144 @@
+Información General del Dataset
+<class 'netCDF4.Dataset'>
+root group (NETCDF3_CLASSIC data model, file format NETCDF3):
+    title: Time-slice output no. 0001 of simulation mocho100_future_control_long
+    institution: Institute of Low Temperature Science, Hokkaido University, Sapporo, Japan
+    source: SICOPOLIS Version 5-dev
+    history: 2021-04-25 21:58:20 +10:00 - Data produced
+    references: http://www.sicopolis.net/
+    dimensions(sizes): x(115), y(99), zeta_c(81), zeta_t(3), zeta_r(41)
+    variables(dimensions): int8 crs(), float32 time(), float32 delta_ts(), float32 z_sl(), float32 V_tot(), float32 V_af(), float32 A_grounded(), float32 A_floating(), float32 x(x), float32 y(y), float32 sigma_level_c(zeta_c), float32 sigma_level_t(zeta_t), float32 sigma_level_r(zeta_r), float32 lon(y, x), float32 lat(y, x), float32 lambda(y, x), float32 phi(y, x), float32 temp_maat(y, x), float32 temp_s(y, x), float32 prec(y, x), float32 snowfall(y, x), float32 rainfall(y, x), float32 pdd(y, x), float32 as_perp(y, x), float32 as_perp_apl(y, x), float32 smb_corr(y, x), float32 mb_source_apl(y, x), float32 runoff(y, x), float32 runoff_apl(y, x), float32 Q_b_tot(y, x), float32 Q_b_apl(y, x), float32 calving(y, x), float32 calving_apl(y, x), float32 q_geo(y, x), int8 maske(y, x), int8 maske_old(y, x), int8 mask_ablation_type(y, x), int8 n_cts(y, x), int32 kc_cts(y, x), float32 zs(y, x), float32 zm(y, x), float32 zb(y, x), float32 zl(y, x), float32 zl0(y, x), float32 H_cold(y, x), float32 H_temp(y, x), float32 H(y, x), float32 H_R(), float32 Q_bm(y, x), float32 Q_tld(y, x), float32 am_perp(y, x), float32 qx(y, x), float32 qy(y, x), float32 vx_m_sia(y, x), float32 vy_m_sia(y, x), float32 vx_m_ssa(y, x), float32 vy_m_ssa(y, x), float32 dzs_dt(y, x), float32 dzm_dt(y, x), float32 dzb_dt(y, x), float32 dzl_dt(y, x), float32 dH_c_dt(y, x), float32 dH_t_dt(y, x), float32 dH_dt(y, x), float32 vx_b_g(y, x), float32 vy_b_g(y, x), float32 vz_b(y, x), float32 vh_b(y, x), float32 vx_s_g(y, x), float32 vy_s_g(y, x), float32 vz_s(y, x), float32 vh_s(y, x), float32 vx_m_g(y, x), float32 vy_m_g(y, x), float32 vh_m(y, x), float32 temp_b(y, x), float32 temph_b(y, x), float32 tau_b_driving(y, x), float32 tau_b_drag(y, x), float32 p_b_w(y, x), float32 q_w(y, x), float32 q_w_x(y, x), float32 q_w_y(y, x), float32 H_w(y, x), float32 q_gl_g(y, x), float32 ratio_sl_x(y, x), float32 ratio_sl_y(y, x), int8 flag_shelfy_stream_x(y, x), int8 flag_shelfy_stream_y(y, x), int8 flag_shelfy_stream(y, x), int8 flag_grounding_line_1(y, x), int8 flag_grounding_line_2(y, x), int8 flag_calving_front_1(y, x), int8 flag_calving_front_2(y, x), int8 flag_grounded_front_a_1(y, x), int8 flag_grounded_front_a_2(y, x), int8 flag_grounded_front_b_1(y, x), int8 flag_grounded_front_b_2(y, x), float32 vis_ave_g(y, x), float32 vis_int_g(y, x), float32 vx_c(zeta_c, y, x), float32 vy_c(zeta_c, y, x), float32 vz_c(zeta_c, y, x), float32 vx_t(zeta_t, y, x), float32 vy_t(zeta_t, y, x), float32 vz_t(zeta_t, y, x), float32 temp_c(zeta_c, y, x), float32 omega_t(zeta_t, y, x), float32 temp_r(zeta_r, y, x), float32 enth_c(zeta_c, y, x), float32 enth_t(zeta_t, y, x), float32 omega_c(zeta_c, y, x), float32 enh_c(zeta_c, y, x), float32 enh_t(zeta_t, y, x), float32 age_c(zeta_c, y, x), float32 age_t(zeta_t, y, x)
+    groups: 
+
+Dimensiones:
+x: 115
+y: 99
+zeta_c: 81
+zeta_t: 3
+zeta_r: 41
+
+Variables:
+crs: (), (), int8
+time: (), (), float32
+delta_ts: (), (), float32
+z_sl: (), (), float32
+V_tot: (), (), float32
+V_af: (), (), float32
+A_grounded: (), (), float32
+A_floating: (), (), float32
+x: ('x',), (115,), float32
+y: ('y',), (99,), float32
+sigma_level_c: ('zeta_c',), (81,), float32
+sigma_level_t: ('zeta_t',), (3,), float32
+sigma_level_r: ('zeta_r',), (41,), float32
+lon: ('y', 'x'), (99, 115), float32
+lat: ('y', 'x'), (99, 115), float32
+lambda: ('y', 'x'), (99, 115), float32
+phi: ('y', 'x'), (99, 115), float32
+temp_maat: ('y', 'x'), (99, 115), float32
+temp_s: ('y', 'x'), (99, 115), float32
+prec: ('y', 'x'), (99, 115), float32
+snowfall: ('y', 'x'), (99, 115), float32
+rainfall: ('y', 'x'), (99, 115), float32
+pdd: ('y', 'x'), (99, 115), float32
+as_perp: ('y', 'x'), (99, 115), float32
+as_perp_apl: ('y', 'x'), (99, 115), float32
+smb_corr: ('y', 'x'), (99, 115), float32
+mb_source_apl: ('y', 'x'), (99, 115), float32
+runoff: ('y', 'x'), (99, 115), float32
+runoff_apl: ('y', 'x'), (99, 115), float32
+Q_b_tot: ('y', 'x'), (99, 115), float32
+Q_b_apl: ('y', 'x'), (99, 115), float32
+calving: ('y', 'x'), (99, 115), float32
+calving_apl: ('y', 'x'), (99, 115), float32
+q_geo: ('y', 'x'), (99, 115), float32
+maske: ('y', 'x'), (99, 115), int8
+maske_old: ('y', 'x'), (99, 115), int8
+mask_ablation_type: ('y', 'x'), (99, 115), int8
+n_cts: ('y', 'x'), (99, 115), int8
+kc_cts: ('y', 'x'), (99, 115), int32
+zs: ('y', 'x'), (99, 115), float32
+zm: ('y', 'x'), (99, 115), float32
+zb: ('y', 'x'), (99, 115), float32
+zl: ('y', 'x'), (99, 115), float32
+zl0: ('y', 'x'), (99, 115), float32
+H_cold: ('y', 'x'), (99, 115), float32
+H_temp: ('y', 'x'), (99, 115), float32
+H: ('y', 'x'), (99, 115), float32
+H_R: (), (), float32
+Q_bm: ('y', 'x'), (99, 115), float32
+Q_tld: ('y', 'x'), (99, 115), float32
+am_perp: ('y', 'x'), (99, 115), float32
+qx: ('y', 'x'), (99, 115), float32
+qy: ('y', 'x'), (99, 115), float32
+vx_m_sia: ('y', 'x'), (99, 115), float32
+vy_m_sia: ('y', 'x'), (99, 115), float32
+vx_m_ssa: ('y', 'x'), (99, 115), float32
+vy_m_ssa: ('y', 'x'), (99, 115), float32
+dzs_dt: ('y', 'x'), (99, 115), float32
+dzm_dt: ('y', 'x'), (99, 115), float32
+dzb_dt: ('y', 'x'), (99, 115), float32
+dzl_dt: ('y', 'x'), (99, 115), float32
+dH_c_dt: ('y', 'x'), (99, 115), float32
+dH_t_dt: ('y', 'x'), (99, 115), float32
+dH_dt: ('y', 'x'), (99, 115), float32
+vx_b_g: ('y', 'x'), (99, 115), float32
+vy_b_g: ('y', 'x'), (99, 115), float32
+vz_b: ('y', 'x'), (99, 115), float32
+vh_b: ('y', 'x'), (99, 115), float32
+vx_s_g: ('y', 'x'), (99, 115), float32
+vy_s_g: ('y', 'x'), (99, 115), float32
+vz_s: ('y', 'x'), (99, 115), float32
+vh_s: ('y', 'x'), (99, 115), float32
+vx_m_g: ('y', 'x'), (99, 115), float32
+vy_m_g: ('y', 'x'), (99, 115), float32
+vh_m: ('y', 'x'), (99, 115), float32
+temp_b: ('y', 'x'), (99, 115), float32
+temph_b: ('y', 'x'), (99, 115), float32
+tau_b_driving: ('y', 'x'), (99, 115), float32
+tau_b_drag: ('y', 'x'), (99, 115), float32
+p_b_w: ('y', 'x'), (99, 115), float32
+q_w: ('y', 'x'), (99, 115), float32
+q_w_x: ('y', 'x'), (99, 115), float32
+q_w_y: ('y', 'x'), (99, 115), float32
+H_w: ('y', 'x'), (99, 115), float32
+q_gl_g: ('y', 'x'), (99, 115), float32
+ratio_sl_x: ('y', 'x'), (99, 115), float32
+ratio_sl_y: ('y', 'x'), (99, 115), float32
+flag_shelfy_stream_x: ('y', 'x'), (99, 115), int8
+flag_shelfy_stream_y: ('y', 'x'), (99, 115), int8
+flag_shelfy_stream: ('y', 'x'), (99, 115), int8
+flag_grounding_line_1: ('y', 'x'), (99, 115), int8
+flag_grounding_line_2: ('y', 'x'), (99, 115), int8
+flag_calving_front_1: ('y', 'x'), (99, 115), int8
+flag_calving_front_2: ('y', 'x'), (99, 115), int8
+flag_grounded_front_a_1: ('y', 'x'), (99, 115), int8
+flag_grounded_front_a_2: ('y', 'x'), (99, 115), int8
+flag_grounded_front_b_1: ('y', 'x'), (99, 115), int8
+flag_grounded_front_b_2: ('y', 'x'), (99, 115), int8
+vis_ave_g: ('y', 'x'), (99, 115), float32
+vis_int_g: ('y', 'x'), (99, 115), float32
+vx_c: ('zeta_c', 'y', 'x'), (81, 99, 115), float32
+vy_c: ('zeta_c', 'y', 'x'), (81, 99, 115), float32
+vz_c: ('zeta_c', 'y', 'x'), (81, 99, 115), float32
+vx_t: ('zeta_t', 'y', 'x'), (3, 99, 115), float32
+vy_t: ('zeta_t', 'y', 'x'), (3, 99, 115), float32
+vz_t: ('zeta_t', 'y', 'x'), (3, 99, 115), float32
+temp_c: ('zeta_c', 'y', 'x'), (81, 99, 115), float32
+omega_t: ('zeta_t', 'y', 'x'), (3, 99, 115), float32
+temp_r: ('zeta_r', 'y', 'x'), (41, 99, 115), float32
+enth_c: ('zeta_c', 'y', 'x'), (81, 99, 115), float32
+enth_t: ('zeta_t', 'y', 'x'), (3, 99, 115), float32
+omega_c: ('zeta_c', 'y', 'x'), (81, 99, 115), float32
+enh_c: ('zeta_c', 'y', 'x'), (81, 99, 115), float32
+enh_t: ('zeta_t', 'y', 'x'), (3, 99, 115), float32
+age_c: ('zeta_c', 'y', 'x'), (81, 99, 115), float32
+age_t: ('zeta_t', 'y', 'x'), (3, 99, 115), float32
+
+Atributos Globales:
+title: Time-slice output no. 0001 of simulation mocho100_future_control_long
+institution: Institute of Low Temperature Science, Hokkaido University, Sapporo, Japan
+source: SICOPOLIS Version 5-dev
+history: 2021-04-25 21:58:20 +10:00 - Data produced
+references: http://www.sicopolis.net/
+

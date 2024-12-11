@@ -1,0 +1,2 @@
+Dentro de la reserva se realizan diferentes tipos de investigaciones, por eso se generará un tutorial para poder utilizar alguno de los datos generados, para generar animaciones.
+En este contexto se utilizaran los datos de una simulación generada para diferentes escenarios de cambio climático y con pocos puntos en el tiempo. Para esto es necesario aprender la estructura de datos que se suelen trabajar (archivo nc), para este propósito se generó un scritp en python [[Glaciar_proccesing.py]]
